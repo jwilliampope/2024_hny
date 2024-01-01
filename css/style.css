@@ -1,0 +1,23 @@
+body {
+  background: #000080;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+img {
+  width: 500px;
+  border-radius: 50%;
+}
+
+.img-container {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
